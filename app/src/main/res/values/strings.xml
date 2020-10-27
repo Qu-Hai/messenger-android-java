@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">AppChat-HK5</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="btn_resigter">Resigter</string>
+    <string name="btn_fogot_password">Forgot Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+
 </resources>
