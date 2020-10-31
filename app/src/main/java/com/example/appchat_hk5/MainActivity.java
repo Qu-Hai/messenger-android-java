@@ -13,5 +13,6 @@ public class MainActivity extends GenerationActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         openNewActivity(LoginActivity.class);
+
     }
 }
